@@ -29,7 +29,7 @@
 ## 👤 ผู้จัดทำ
 - GitHub: mhaphungpleng
 - Coding: Bible
-_ Mechanical: Pray
+- Mechanical: Pray
 
 ---
 
