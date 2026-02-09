@@ -9,13 +9,12 @@
 ## Project Structure
 
 rc-car/
-│
-├── firmware/ # โค้ดไมโครคอนโทรลเลอร์ / ESC / Servo
-├── software/ # ROS2 nodes สำหรับ manual และ autonomous control
-├── models/ # สมการควบคุมและแบบจำลองทางคณิตศาสตร์
-├── images/ # block diagram และ hardware setup
-├── docs/ # รายงานและเอกสาร
-├── launch/ # ROS2 launch files
+ /firmware/ # โค้ดไมโครคอนโทรลเลอร์ / ESC / Servo
+ /software/ # ROS2 nodes สำหรับ manual และ autonomous control
+ /models/ # สมการควบคุมและแบบจำลองทางคณิตศาสตร์
+ /images/ # block diagram และ hardware setup
+ /docs/ # รายงานและเอกสาร
+ /launch/ # ROS2 launch files
 
 
 ---
